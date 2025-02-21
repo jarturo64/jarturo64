@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jarturo64
-- 👀 I’m interested in Data Science and Analytics with AI
+- 👀 I’m interested in Analytics & Data Science with AI
 - 🌱 I’m currently learning Python
-- 💞️ I am looking to collaborate on Data Science and Analysis Projects with AI
+- 💞️ I am looking to collaborate on Analytics & Data Science Projects with AI
 - 📫 How to reach me https://wa.me/+525545076388
 - 😄 Pronouns: JAS
 - ⚡ Fun fact:  10 years Experience in Develop Systems 
